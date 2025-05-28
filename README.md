@@ -1,1 +1,3 @@
-# GraduateTracer SECRET LANG TO
+# GraduateTracer
+
+Yuri Pogi
